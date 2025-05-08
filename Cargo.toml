@@ -3,6 +3,7 @@ name = "catppuccinifier-cli"
 version = "9.0.0"
 edition = "2021"
 description = "A cli tool to catppuccinify your wallpapers"
+license = "Expat"
 
 [dependencies]
 colored = "3.0.0"
